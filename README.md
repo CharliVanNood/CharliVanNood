@@ -3,8 +3,8 @@
 Sometimes I program a little
 ```json
 {
-  "main-languages": "Rust", "Javascript", "Python", "Php", "Lua", "FemC"
-  "less-used-languages": "C#", "Java", "C++", "Squirrel"
+  "main-languages": "Rust", "Javascript", "Python", "Php", "Lua"
+  "less-used-languages": "C#", "Java", "C++", "Java"
 }
 ```
 Here are some stats if you were wondering:    
