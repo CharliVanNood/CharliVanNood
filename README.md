@@ -7,11 +7,3 @@ Sometimes I program a little
   "less-used-languages": "C#", "Java", "C++", "Java"
 }
 ```
-Here are some stats if you were wondering:    
-  
-<a href="https://github.com/charlivannood">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=charlivannood&layout=compact&card_width=200&theme=merko" />
-</a>
-<a href="https://github.com/charlivannood">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlivannood&layout=compact&langs_count=10&card_width=200&theme=merko" />
-</a>
