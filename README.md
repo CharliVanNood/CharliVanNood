@@ -16,6 +16,8 @@
   "openxr": "Almost supported",
   "unity": "Plugin almost supported",
   "godot": "Plugin not started yet",
+  "why": "Wanted a long term project",
+  "inspiration": "Vrchat and Neos VR"
   "locked-in": true
 }
 ```
