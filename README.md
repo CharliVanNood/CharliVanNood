@@ -12,7 +12,7 @@
 ## Visit my friends too! 🐢
 - [Exyaaa](https://github.com/exyaaa)
 - [Abigail](https://github.com/abigailchurch32)
-- [kbeckers1](https://github.com/kbeckers1) you'll live in our hearts forever, thank you for being such an amazing friend. rest well 💜  
+- [kbeckers1](https://github.com/kbeckers1) thank you for being such an amazing friend. rest well 💜  
   
 ## Caevern
 🌱 Currently working on Caevern 🌱
