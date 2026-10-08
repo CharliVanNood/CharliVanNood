@@ -7,7 +7,7 @@
   "less-used-languages": "C#", "Java", "C++", "Java"
 }
 ```
-<a href="https://discord.com/users/592044585883009036"><img src="https://lanyard.cnrad.dev/api/592044585883009036?idleMessage=meow&bg=1e1e1e" /></a>
+<a href="https://discord.com/users/592044585883009036"><img src="https://lanyard.cnrad.dev/api/592044585883009036?idleMessage=meow&bg=171e28" /></a>
 
 ## Visit my friends too! 🐢
 - [Exyaaa](https://github.com/exyaaa)
