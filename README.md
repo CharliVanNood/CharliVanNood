@@ -7,6 +7,10 @@
   "less-used-languages": "C#", "Java", "C++", "Java"
 }
 ```
+
+## Visit my friends too!
+- [Exyaaa](https://github.com/exyaaa)
+- [kbeckers1](https://github.com/kbeckers1)
   
 [kbeckers1](https://github.com/kbeckers1) you'll live in our hearts forever, thank you for being such an amazing friend. rest well 💜  
   
