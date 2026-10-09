@@ -12,6 +12,7 @@
 ## Visit my friends too! 🐢
 - [Exyaaa](https://github.com/exyaaa)
 - [Abigail](https://github.com/abigailchurch32)
+- [LuukvanLuijn](https://github.com/LuukvanLuijn)
 - [kbeckers1](https://github.com/kbeckers1) thank you for being such an amazing friend. rest well 💜  
   
 ## Caevern
