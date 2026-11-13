@@ -20,11 +20,10 @@
 ```json
 {
   "status": "In Development",
-  "openxr": "Almost supported",
+  "openxr": "Works, just missing rewrite to quaternions...",
   "unity": "Plugin almost supported",
   "godot": "Plugin not started yet",
   "why": "Wanted a long term project",
-  "inspiration": "Vrchat and Neos VR"
   "locked-in": true
 }
 ```  
