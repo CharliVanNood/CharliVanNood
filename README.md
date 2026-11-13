@@ -10,6 +10,7 @@
 <a href="https://discord.com/users/592044585883009036"><img src="https://lanyard.cnrad.dev/api/592044585883009036?idleMessage=meow&bg=151b23" /></a>
 
 ## Visit my friends too! 🐢
+- [Wilko](https://github.com/wilko-9)
 - [Exyaaa](https://github.com/exyaaa)
 - [Abigail](https://github.com/abigailchurch32)
 - [LuukvanLuijn](https://github.com/LuukvanLuijn)
